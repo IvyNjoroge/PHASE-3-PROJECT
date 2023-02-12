@@ -24,7 +24,7 @@ The 'churn' column will be used as our target column in this binary classificati
 
 ![image](https://user-images.githubusercontent.com/111203571/218341613-8bd652db-5f6e-4e4b-a654-24c41c8d8754.png)
 
-## MODELLING
+## EVALUATION
 
 ![image](https://user-images.githubusercontent.com/111203571/218341676-53eee457-5739-4c31-b55b-2e357e2175ab.png)
 
